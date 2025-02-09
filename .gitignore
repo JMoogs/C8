@@ -1,0 +1,6 @@
+target
+.direnv
+.envrc
+rust-toolchain
+shell.nix
+programs
